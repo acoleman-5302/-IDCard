@@ -1,0 +1,56 @@
+img {
+    width: 90px;
+    height: 90px;  
+    float: left;
+    }
+    
+#idCard {
+    border: 5px solid black;    
+    height: 14em;
+    width: 25em;
+    border-radius: 20px;
+    margin: 50px, 50px;
+    padding: 50px;
+    background-color: lightgoldenrodyellow;
+    }
+
+
+h1 {
+    text-align: center ;
+}
+
+
+#postFullName {
+    font-size: large ;
+}
+
+html{
+    background-color: lightblue;
+}
+
+label{
+    position: relative;
+    top: 40px; left: 40px;
+}
+
+/*
+
+add padding, round border, something is wrong with it being centered.
+
+html{
+    display:table;
+    margin: auto ;
+    background-color: lightblue;
+}
+
+
+
+
+
+/should I make it a form? is the margin abov the error?
+.form label{
+    display:inline-block;
+    text-align: center;
+}
+
+*/
