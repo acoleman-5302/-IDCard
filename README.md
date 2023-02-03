@@ -1,8 +1,13 @@
 HTML file
+
 Create an h1 tag that says "Let's Create an ID card!"
+
 Create 5 inputs and labels for:
+
 First Name
-Last Name
+
+Last Name:
+
 Age
 Phone Number
 Address
