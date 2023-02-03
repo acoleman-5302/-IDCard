@@ -10,8 +10,11 @@ Last Name:
 
 Age
 Phone Number
+
 Address
+
 Give each input an id that corresponds to what the input is for.
+
 Add a break tag after each input so they are listed vertically and not horizontally.
 Add a button that uses onclick to call the function named idCard.
 Tip! You will create this function in the JS file.
